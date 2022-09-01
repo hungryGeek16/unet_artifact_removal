@@ -7,9 +7,6 @@ from tensorflow.keras import activations
 from tensorflow.keras.layers import concatenate
 from tensorflow.keras.models import Model
 
-""" =================================================================
- ops 
-================================================================= """
 def normalize(images):
     return (images.astype(np.float32)/255.0)
 
