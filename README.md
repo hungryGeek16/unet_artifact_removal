@@ -39,3 +39,4 @@ python infer.py --ckpt_path path/to/UNET_month_day_hour_minute_second/ckpt-20000
 ```
 * This will output two image files, one would be the downgraded image and another would be the artifact removed image.
 
+### Code and concept Credits: [ppooiiuuyh](https://github.com/ppooiiuuyh/SNET-Tf2.git), [ShakedDovrat](https://github.com/ShakedDovrat/JpegArtifactRemoval)
