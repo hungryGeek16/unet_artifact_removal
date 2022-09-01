@@ -25,6 +25,7 @@ rm jpeg_dataset.zip
 * For training, execute command given below:
 
 ```bash
+mkdir outputs
 python train.py --steps 20000
 ```
 
